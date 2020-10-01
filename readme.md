@@ -10,3 +10,6 @@ then save the cert as `devCertificate.cer` and use command that follows
 ```
  openssl pkcs12 -export -out certificate.pfx -inkey devCertificate.pvk -in devCertificate.cer
 ```
+
+## Using cert
+Currently I've been copying the `certificate.pfx` into the `./bin/debug` folder
