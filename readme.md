@@ -1,3 +1,6 @@
+# Overview Video
+https://www.loom.com/share/c573aca539a948309afe1fa579c49caa
+
 # Cert
 
 ## Generating cert file
@@ -13,3 +16,6 @@ then save the cert as `devCertificate.cer` and use command that follows
 
 ## Using cert
 Currently I've been copying the `certificate.pfx` into the `./bin/debug` folder
+
+# Resources
+https://www.rahulpnath.com/blog/signing-a-pdf-file-using-azure-key-vault/
